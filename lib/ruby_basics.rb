@@ -30,6 +30,6 @@ end
 
 def pizza_party(cheese)
   puts cheese
-  
+
 
 end
