@@ -13,18 +13,22 @@ def argue(phrase)
 
 end
 
-def greeting
+def greeting(name)
+  name = "Bob"
 
 end
 
-def return_a_value
+def return_a_value(phrase)
+  phrase = "Nice"
 
 end
 
-def last_evaluated_value
+def last_evaluated_value(phrase)
+  phrase = "expert"
 
 end
 
-def pizza_party
+def pizza_party(returns)
+  returns = "cheese"
 
 end
