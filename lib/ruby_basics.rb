@@ -1,6 +1,4 @@
 def division(num1, num2)
-  num1 = "36"
-  num2 = "6"
 
 end
 
