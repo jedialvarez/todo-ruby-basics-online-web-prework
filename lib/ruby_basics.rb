@@ -13,7 +13,7 @@ def argue(phrase)
 
 end
 
-def greeting(name)
+def greeting(greeting, name)
   name = "Bob"
 
 end
