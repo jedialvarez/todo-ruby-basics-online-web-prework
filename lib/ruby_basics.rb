@@ -1,13 +1,15 @@
 def division(num1, num2)
- 
+  num1 = "36"
+  num2 = "6"
+
 end
 
 def assign_variable(value)
-  
+
 end
 
 def argue
-  
+
 end
 
 def greeting
